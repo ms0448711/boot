@@ -1,0 +1,13 @@
+-------------------------------
+#Install Python 2.7
+Use Command
+- pip install request
+- pip install requests
+- pip install colorama
+- pip install bs4
+- pip install future
+- pip install urllib
+- pip install urllib2
+------------------------------------
+Youtube : Logic Internet
+ICQ : https://icq.im/Shin403
